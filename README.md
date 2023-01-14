@@ -2,7 +2,7 @@
 
 # Introduction
 
-data source >>>>>>>
+data source << https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales >>
 
 By using data analysis techniques, supermarket X can gain valuable insights into their operations and customers, which can help them make more informed decisions and improve their performance. By studying trends and patterns in their data, supermarket X can identify opportunities for growth and areas for improvement, and can tailor their product offerings and customer experiences accordingly. In this blog post, we will explore the topic of analyzing supermarket X data in more detail, discussing the benefits of this type of analysis and some of the key techniques and tools that can be used to perform it.
 
@@ -20,12 +20,14 @@ By using data analysis techniques, supermarket X can gain valuable insights into
 
 The process of cleaning data involves identifying and correcting any errors or inconsistencies in the data, as well as formatting the data in a way that makes it easier to work with and analyze. This process is often necessary because real-world data is often messy and incomplete, and must be cleaned before it can be used for any meaningful analysis or decision-making.
 
-1. 
-2.  
-3. 
+1. Remove irrelevant / missing data
+2. Check for duplicants
+3. Fix errors
 
 Overall, the goal of cleaning data is to make it more accurate, consistent, and useful for analysis and decision-making. By taking the time to clean your data, you can improve the quality and reliability of your analysis, and make more informed and effective decisions.
 
 # Recommendations
 
-1. Continuously monitor and update: Data analysis should not be a one-time event. Instead, it should be an ongoing process, with regular monitoring and updates to ensure that your analysis remains relevant and accurate.
+1. To accurately check for trends, month over month growth, and other trend. We need to collect the data daily and for a long period of time 
+2. We can see a dip in sales during the month of February. We should closely monitor to find the reason for that 
+3. Saturday is where we see an increase in customers. We can make sure we have sufficient staff to meet the demand 
